@@ -1,0 +1,43 @@
+li{
+	list-style: none;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
+main{
+	padding-top: 6em;
+	width: 40%;
+	position: relative;
+	justify-content: center;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+nav{
+	top: 0;
+	z-index: 3;
+	background: white;
+	position: fixed;
+}
+
+nav ul{
+	display: flex;
+}
+
+nav ul li{
+	margin: 2em;
+}
+
+.skip{
+	position: absolute;
+	left: -1000px;
+
+}
+.skip:focus{
+	position:relative;
+	left: 0;
+}
