@@ -25,7 +25,7 @@ How do i design a pleasurable webpage navigation for Larissa
 
 
 ## Prototypes and testing
-###Concept
+### Concept
 My concept was to focus primarily on the navigation through a webpage and give the user different ways to navigate through the page with the use of skippable content or supporting text
 
 ### Round 1
