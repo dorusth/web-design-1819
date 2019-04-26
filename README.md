@@ -29,6 +29,7 @@ How do i design a pleasurable webpage navigation for Larissa
 My concept was to focus primarily on the navigation through a webpage and give the user different ways to navigate through the page with the use of skippable content or supporting text
 
 ### Round 1
+[iterations](https://dorusth.github.io/web-design-1819/opdracht-2/week1/)
 For the first round of testing i've made 6 different iterations of content an skippable sections in pages.
 For my example i've used a news articles about the 2020 olympic games in tokyo
 
@@ -68,6 +69,7 @@ The version with the page summary was the most interesting to test because it cl
 
 
 ### Round 2
+[iterations](https://dorusth.github.io/web-design-1819/opdracht-2/week2/)
 For the second round of testing i decided to focus on the page summary prototype and iterate on a few versions:
 
 - Short summary
