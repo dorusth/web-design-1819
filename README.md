@@ -89,19 +89,46 @@ After testing the final Prototypes I found that all versions added a more pleasu
 The version with the summary list gave the best result, because it gave a quick and clear view of the page content/structure.
 
 
+### Round 3
+The last [iteration](https://dorusth.github.io/web-design-1819/opdracht-2/week3/) was based on the most pleasurable version of the last round with an added layer for a more fun experience
+
+- Summary list
+	- This version gave a list of the contents of the page, more like a small navigation or sitemap she could skip through to get a feel of the page.
+
+- Overview page
+	- In this version I played around with a version for a home page of a news site an how the page overview would look for the screenreader
+
+- Voice-over Summary
+	- the last iteration was an extra version of the summary list in which the page summary was a spoken version to give the user a better experience than the screenreader voice.
+	- There was also a spoken version of the full article.
+
+##### round 3 results
+This testround was without Larissa, but i've tested it with other students who have also done research on her for the course
+
+The main finding was that for the overview page was that it gave a quicker overview of the page that had a lot of content with a quick navigation through the page itself
+Most intresting was the spoken version of the article, the feedback for this version was very positive because it gave more feeling about the article that the user was reading without the screenreader voice.
+
+
 ## Principles
 
 ### Exclusive Design Principles
 
+- Study situation
+	- for this project i've researched the ways and the tools Larisa uses to browse the web an what were the annoyances she encountered while browsing the web
+
 - Ignore conventions
 	- For this one i've wanted to find a different way for the user to get through the page than the default skip to menu/content anchors.
 
+- Prioritise identity
+	- For this i've focused on the identity of Larissa and based the iterations on articles about the 2020 olympic games which she will be attending.
+	- I've also based the versions on the annoyances she encounters on the web and features she often uses to browse the web.
 
 - Add Nonsense
-	- I wanted to add something extra to the page to give the user a better feeling of the site and the content.
+	- I wanted to add something extra to the page to give the user a better feeling of the site and the content. The voice-over was a nice addition to the page as an extra which enhanced the feeling of the article.
 
 
 ### UI principles
+
 - Progressive disclosure
 	- I've added extra content which is only visible to the screenreader when the section is selected by the user.
 
